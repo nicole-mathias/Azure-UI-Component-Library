@@ -1,12 +1,9 @@
 # Azure-UI-Component-Library ❤️
 
-##### Try it out 👉 https://azure-ui-nicole-mathias.netlify.app/index.html
+#### Try it out 👉 https://azure-ui-nicole-mathias.netlify.app/index.html
 
 
 <h3> To import components </h3>
-<p>Use the below code 👇 in your html head tag</p>
+<p>Insert the below link 👇 in your link tag for style</p>
+### https://azure-ui-nicole-mathias.netlify.app/components.css
 
-
-<p>
-   <h4><link rel="stylesheet" href="https://azure-ui-nicole-mathias.netlify.app/components.css" /></h4>
-</p>
