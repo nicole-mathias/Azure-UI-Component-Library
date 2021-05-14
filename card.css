@@ -1,0 +1,57 @@
+
+.card {
+    
+    width: 20rem;
+    position: relative;
+    box-shadow: 0 2px 7px #886d6d;
+    margin: 2rem 1rem 2rem 1rem;;
+    background: #ffffff;
+    border-radius: 0 0 0.5rem 0.5rem;
+    display: inline-block;   
+}
+
+.card-img {
+    
+    height: 15rem;
+    transition: 0.3s;
+}
+
+.card-details {
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.card-title {
+    /* padding: 1rem; */
+    font-weight: 600px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-bottom: 1rem;
+
+}
+
+
+.card-body {   
+    /* padding: 1rem; */
+    transition: 0.3s;
+    padding-bottom: 1rem;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 11rem;
+    left: 2.2rem;
+    background: rgba(8, 7, 7, 0.5);
+    color: white;
+    padding: 0rem 0.6rem 0rem;
+    border-radius: 0.5rem;
+}
+
+.cross-badge {
+    position: absolute;
+    top: 0rem;
+    right:0rem;
+    background-color: rgba(8, 7, 7, 0.5);
+    color: white;
+    padding: 0.6rem;
+    border-radius: 0.3rem;
+}

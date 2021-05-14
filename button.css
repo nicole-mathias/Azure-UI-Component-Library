@@ -1,0 +1,80 @@
+
+:root {
+    --white: #ffffff;
+    --primary-hover : #0047b3;
+    --primary : #006dcb;
+    --secondary : #52527a;
+    --secondary-hover : #3d3d5c;
+    --success : #2eb82e;
+    --success-hover :#248f24;
+    --info : #008CBA;
+    --warning : #EC971F;
+    --danger : #C9302C;
+    --danger-hover :#b30000;
+    --link : rgb(10, 129, 189);
+    --icon : DodgerBlue;
+    --actionBG : #000000;
+    --actionBGShadow: rgba(0,0,0,0.23);
+   }
+
+
+.btn {
+    color: var(--white);
+    padding: 0.7rem 1.5rem;
+    border-radius: 0.3rem;
+    /* text-decoration: none; */
+    /* outline: none; */
+    border: none;
+    transition-duration: 0.4s;
+    font-weight: 600;
+    /* margin: 1% auto; */
+}
+
+/* Primary button */
+.btn-primary {
+    background-color: var(--primary);
+}
+
+.btn-primary:hover {
+    background-color: var(--primary-hover);
+}
+
+
+/* Secondary button */
+.btn-secondary {
+    background-color: var(--secondary);
+}
+
+.btn-secondary:hover {
+    background-color: var(--secondary-hover);
+}
+
+
+/* Success button */
+.btn-success {
+    background-color: var(--success);
+}
+
+.btn-success:hover {
+    background-color: var(--success-hover);
+}
+
+
+/* Danger */
+.btn-danger {
+    background-color: var(--danger);
+}
+
+.btn-danger:hover {
+    background-color: var(--danger-hover);
+}
+
+
+/* Link */
+.btn-link {
+    color: var(--link);
+}
+
+.btn-link:hover {
+    text-decoration: underline;
+}
