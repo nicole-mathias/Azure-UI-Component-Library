@@ -5,5 +5,5 @@
 
 <h3> To import components </h3>
 <p>Insert the below link 👇 in your link tag for style</p>
-### https://azure-ui-nicole-mathias.netlify.app/components.css
+<p> https://azure-ui-nicole-mathias.netlify.app/components.css</p>
 
